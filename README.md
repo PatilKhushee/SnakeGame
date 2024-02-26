@@ -1,7 +1,5 @@
 # SnakeGame
 
-# Snake Game
-
 Welcome to the Snake Game project! This project is a simple implementation of the classic Snake Game using Java.
 
 ## Overview
